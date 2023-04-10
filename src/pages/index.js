@@ -37,7 +37,7 @@ export default function Home() {
 					}}
 				>
 					<Box sx={{ display: "flex", gap: "1rem", flexDirection: "column" }}>
-						<Typography variant="h6" sx={{ mb: 1, fontWeight: "600" }}>
+						<Typography variant="h5" sx={{ mb: 1, fontWeight: "600" }}>
 							Informações Adicionais
 						</Typography>
 						<Typography variant="body2">
