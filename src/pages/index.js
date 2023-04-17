@@ -37,26 +37,27 @@ export default function Home() {
 					}}
 				>
 					<Box sx={{ display: "flex", gap: "1rem", flexDirection: "column" }}>
-						<Typography variant="h5" sx={{ mb: 1, fontWeight: "600" }}>
+						<Typography variant="h5" sx={{ fontWeight: "600" }}>
 							Informações Adicionais
 						</Typography>
 						<Typography variant="body2">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-							reprehenderit in voluptate velit esse cillum dolore eu fugiat
-							nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-							sunt in culpa qui officia deserunt mollit anim id est laborum.
+							O bullying é qualquer ato de violência física ou verbal
+							intencional e praticado sem motivação contra alguém, cometido por
+							uma ou mais pessoas. Existem vários tipos de bullying, sendo os
+							mais praticados o verbal e o cyberbullying ou bullying virtual,
+							mas também existem o físico, o material, o social e o psicológico.
 						</Typography>
 						<Typography variant="body2">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-							reprehenderit in voluptate velit esse cillum dolore eu fugiat
-							nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-							sunt in culpa qui officia deserunt mollit anim id est laborum.
+							Além dos tipos, existem também os “protagonistas”, indivíduos
+							participantes, dentre eles estão os espectadores, as pessoas que
+							estão presentes e veem tudo que está ocorrendo, porém permanecem
+							em silêncio ou até mesmo participam com pequenos gestos e ações,
+							como rir das piadas feitas para ofender o alvo, pessoa para qual
+							as piadas, agressões e a perseguição são direcionadas e, quem
+							sofre por traumas gerados a partir das ações praticadas pelo
+							autor, indivíduo que pratica o bullying e está ciente de que isso
+							poderá machucar o outro, porém não pensa nas possíveis
+							consequências de seus atos.
 						</Typography>
 						<Typography variant="body2">
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
