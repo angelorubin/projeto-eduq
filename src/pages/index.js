@@ -92,7 +92,7 @@ export default function Home() {
 
 						<Box sx={{ m: 1 }}>
 							<video
-								src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+								src="https://res.cloudinary.com/angelorubin/video/upload/v1681734685/eduq/video-bullying-eduq-manoela_sidqbc.mp4"
 								width="100%"
 								controls
 								autoplay
