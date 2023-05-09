@@ -241,10 +241,10 @@ export default function Home() {
 						</Typography>
 						<Typography variant="body2">
 							Quando menor virei motivo de chacota na escola por ter um jeito
-							"afeminado", os garotos mais "masculos" faziam piadas sobre minha
+							afeminado, os garotos mais masculos faziam piadas sobre minha
 							sexualidade e gênero, isso se espalhou por toda sala e todos os
-							meus colegas repetiam as mesmas frases, "olha lá o viadinho!" ou
-							"vira homem bixinha".
+							meus colegas repetiam as mesmas frases, olha lá o viadinho! ou
+							vira homem bixinha.
 						</Typography>
 					</Paper>
 
@@ -267,9 +267,9 @@ export default function Home() {
 							-Maiara dos Santos
 						</Typography>
 						<Typography variant="body2">
-							"Meus familiares falam que eu preciso emagrecer e me dão pílulas
+							Meus familiares falam que eu preciso emagrecer e me dão pílulas
 							para isso também e sempre fazem comentários maldosos sobre meu
-							corpo".
+							corpo.
 						</Typography>
 					</Paper>
 
