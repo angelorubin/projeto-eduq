@@ -89,6 +89,15 @@ export default function Home() {
 					}}
 				>
 					<Box>
+						<Box sx={{ mb: "1rem" }}>
+							<video
+								src="https://res.cloudinary.com/angelorubin/video/upload/v1681734685/eduq/video-bullying-eduq-manoela_sidqbc.mp4"
+								width="100%"
+								controls
+								autoplay
+								type="video/mp4"
+							/>
+						</Box>
 						<Typography variant="h5" sx={{ mb: 1, fontWeight: "600" }}>
 							Como abordar o problema
 						</Typography>
@@ -98,17 +107,7 @@ export default function Home() {
 							algumas maneiras de abordar o problema:
 						</Typography>
 
-						<Box sx={{ m: 1 }}>
-							<video
-								src="https://res.cloudinary.com/angelorubin/video/upload/v1681734685/eduq/video-bullying-eduq-manoela_sidqbc.mp4"
-								width="100%"
-								controls
-								autoplay
-								type="video/mp4"
-							/>
-						</Box>
-
-						<Typography variant="h5" sx={{ fontWeight: "600" }}>
+						<Typography variant="h6" sx={{ fontWeight: "600" }}>
 							1. Conscientização e Educação
 						</Typography>
 						<Typography variant="body2" sx={{ m: 1 }}>
@@ -119,7 +118,7 @@ export default function Home() {
 							identificar e combater esse comportamento.
 						</Typography>
 
-						<Typography variant="h5" sx={{ fontWeight: 600 }}>
+						<Typography variant="h6" sx={{ fontWeight: 600 }}>
 							2. Intervenção Imediata
 						</Typography>
 						<Typography variant="body2" sx={{ m: 1 }}>
@@ -129,7 +128,7 @@ export default function Home() {
 							responsabilizar os agressores.
 						</Typography>
 
-						<Typography variant="h5" sx={{ fontWeight: 600 }}>
+						<Typography variant="h6" sx={{ fontWeight: 600 }}>
 							3. Apoio Emocional e Psicológico
 						</Typography>
 						<Typography variant="body2" sx={{ m: 1 }}>
@@ -139,7 +138,7 @@ export default function Home() {
 							ajudar as vítimas a lidar com as consequências do bullying.
 						</Typography>
 
-						<Typography variant="h5" sx={{ fontWeight: 600 }}>
+						<Typography variant="h6" sx={{ fontWeight: 600 }}>
 							4. Responsabilização dos Agressores
 						</Typography>
 						<Typography variant="body2" sx={{ m: 1 }}>
@@ -149,7 +148,7 @@ export default function Home() {
 							dependendo da gravidade do bullying.
 						</Typography>
 
-						<Typography variant="h5" sx={{ fontWeight: 600 }}>
+						<Typography variant="h6" sx={{ fontWeight: 600 }}>
 							5. Incentivar a empatia e a compaixão
 						</Typography>
 						<Typography variant="body2" sx={{ m: 1 }}>
@@ -169,7 +168,7 @@ export default function Home() {
 							impacto do bullying em nossas comunidades.
 						</Typography>
 
-						<Typography variant="h5" x={{ fontWeight: 600 }}>
+						<Typography variant="h5" sx={{ fontWeight: 600 }}>
 							Um Problema Social
 						</Typography>
 						<Typography variant="body2" sx={{ m: 1 }}>
@@ -186,21 +185,29 @@ export default function Home() {
 							física das vítimas, incluindo ansiedade, depressão, baixa
 							autoestima, isolamento social e até mesmo suicídio. Além disso,
 							pode levar a problemas de comportamento, como abuso de drogas e
-							álcool, comportamento agressivo e delinquência juvenil. Há muitas
-							formas de bullying, incluindo bullying verbal (como insultos,
-							ofensas e ameaças), bullying físico (como empurrões, socos e
-							pontapés), bullying psicológico (como exclusão social e
+							álcool, comportamento agressivo e delinquência juvenil.
+						</Typography>
+						<Typography variant="body2" sx={{ m: 1 }}>
+							Há muitas formas de bullying, incluindo bullying verbal (como
+							insultos, ofensas e ameaças), bullying físico (como empurrões,
+							socos e pontapés), bullying psicológico (como exclusão social e
 							manipulação emocional), cyberbullying (assédio online) e sexting
 							(o compartilhamento não consensual de conteúdo sexualmente
-							explícito). É importante que as vítimas de bullying busquem ajuda
-							de um adulto de confiança, como um professor, conselheiro, pai ou
-							mãe. As escolas e as comunidades em geral também devem estar
-							cientes desse problema e trabalhar para prevenir o bullying por
-							meio de políticas e programas de conscientização. Além disso, é
-							importante que todos nós nos esforcemos para sermos mais empáticos
-							e respeitosos com os outros, para que possamos criar um ambiente
-							mais seguro e positivo para todos. A mudança começa com cada um de
-							nós, e todos podemos fazer a diferença no combate ao bullying.
+							explícito).
+						</Typography>
+						<Typography variant="body2" sx={{ m: 1 }}>
+							É importante que as vítimas de bullying busquem ajuda de um adulto
+							de confiança, como um professor, conselheiro, pai ou mãe. As
+							escolas e as comunidades em geral também devem estar cientes desse
+							problema e trabalhar para prevenir o bullying por meio de
+							políticas e programas de conscientização.
+						</Typography>
+						<Typography variant="body2" sx={{ m: 1 }}>
+							Além disso, é importante que todos nós nos esforcemos para sermos
+							mais empáticos e respeitosos com os outros, para que possamos
+							criar um ambiente mais seguro e positivo para todos. A mudança
+							começa com cada um de nós, e todos podemos fazer a diferença no
+							combate ao bullying.
 						</Typography>
 					</Box>
 				</Box>
