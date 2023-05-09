@@ -40,7 +40,7 @@ export default function Header() {
 						mb: 2,
 					}}
 				>
-					Campanha Anti-bullying
+					Projeto Anti-bullying
 				</Typography>
 			</Box>
 
